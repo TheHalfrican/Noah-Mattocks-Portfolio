@@ -18,7 +18,7 @@ On this webpage you can find useful links to contacts like Linkdin and github in
 
 ## Sample-Image
 
-![Sample-Image](https://raw.githubusercontent.com/TheHalfrican/The-Team-Profile-Generator/main/assets/images/Sample-Image.png)
+![Portfolio Sample Image](https://raw.githubusercontent.com/TheHalfrican/Noah-Mattocks-Portfolio/main/assets/images/Sample-Image.png)
 
 ## Active Website
 
